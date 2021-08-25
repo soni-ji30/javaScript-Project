@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card {
+    width: 50%;
+    margin: auto;
+    padding: 35px;
+    background-color: burlywood;
+    margin-top: 40px;
+    border-top-right-radius: black;
+}
+
+.form-details {
+    width: 100%;
+    margin-bottom: 14px;
+}
+
+.form-details label {
+    display: block;
+}
+
+.form-control {
+    width: 100%;
+    padding: 16px;
+    box-sizing: border-box;
+    border-radius: 6px;
+    border: 2px solid black;
+}
+
+.btn {
+    padding: 16px 22px;
+    border-style: solid;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+
+.btn-submit {
+    background-color: mediumpurple;
+    color: #fff;
+}

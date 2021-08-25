@@ -1,0 +1,15 @@
+body {
+    background-color: blanchedalmond;
+    padding: auto;
+}
+
+.box {
+    box-sizing: 1px solid black;
+    box-shadow: lemonchiffon;
+    background-color: burlywood;
+    border-top-right-radius: 0%;
+}
+
+p {
+    text-align: left;
+}
