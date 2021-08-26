@@ -12,7 +12,7 @@ function loadpets() {
 }
 loadpets()
  */
-    fetch("json project/index.json").then(function(res) {
+    fetch("index.json").then(function(res) {
         if (res.ok) {
             res.json().then(function(result) {
                 console.log(result)
